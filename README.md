@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **solidity and react**
 
-- 👨‍💻 All of my projects are available at [-coming soon-](-coming soon-)
+- 👨‍💻 All of my projects are available at [my portfolio](https://www.aliasgarlaut.dev/)
 
-- 💬 Ask me about **laravel, vue, react, nuxtjs, flutter, dart, and supabase**
+- 💬 Ask me about **vue, nuxt, react, solidity, and supabase**
 
 - 📫 How to reach me **aliasgar.laut@gmail.com**
 
